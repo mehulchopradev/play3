@@ -3,3 +3,5 @@
 # function to return date in a particular format
 
 # function to return only the year component from the date
+
+# function to return only the month component from the date, 1 based
